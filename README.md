@@ -1,8 +1,10 @@
 
+![](https://github.com/wkostusiak/magnetoresistance-data/blob/main/header.png)
+
 <h2 align="center">Magnetoresistance measurement data analysis - in progress</h2>
 
   <p align="center">
-    Using pandas to manage long .dat files :page_facing_up: 
+    Using pandas to manage long .dat/.csv files :page_facing_up: 
   </p>
 </div>
 
