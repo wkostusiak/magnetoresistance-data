@@ -54,7 +54,7 @@ automate their organization and separation.
 
 ### To be done:
 
-* separation of negative and positive magnetic field measurements
+* plot generation
 * turning code into .exe file/script
 * adding simple GUI
 
