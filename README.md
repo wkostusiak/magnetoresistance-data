@@ -54,8 +54,7 @@ automate their organization and separation.
 
 ### To be done:
 
-* plot generation
-* turning code into .exe file/script
+* plot generation with matplotlip
 * adding simple GUI
 
 
